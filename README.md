@@ -214,12 +214,12 @@ Review trends help understand customer engagement patterns.
 ---
 
 ## 📍 Customer Insights Dashboard
-![Customer Insights]("C:\Users\ASUS\OneDrive\Pictures\Screenshots\Screenshot 2026-05-06 121757.png")
+![Customer Insights](Airbnb%20Global%20Performance/Customers%20Insights.png)
 
 ---
 
 ## 📍 Market & Ratings Dashboard
-![Market Analysis]("C:\Users\ASUS\OneDrive\Pictures\Screenshots\Screenshot 2026-05-06 121813.png")
+![Market Analysis](Airbnb%20Global%20Performance/Market%20Ratings.png)
 
 ---
 
