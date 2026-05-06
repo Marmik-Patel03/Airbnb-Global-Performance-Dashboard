@@ -209,7 +209,7 @@ Review trends help understand customer engagement patterns.
 # 📷 Dashboard Screenshots
 
 ## 📍 Overview Dashboard
-![Overview Dashboard]("https://github.com/Marmik-Patel03/Airbnb-Global-Performance-Dashboard/blob/main/Airbnb%20Global%20Performance/Overview.png")
+![Overview Dashboard](Airbnb%20Global%20Performance/Overview.png)
 
 ---
 
